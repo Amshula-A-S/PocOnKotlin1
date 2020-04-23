@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23081424730",
+    "firebase_url": "https://loginpoc-2badc.firebaseio.com",
+    "project_id": "loginpoc-2badc",
+    "storage_bucket": "loginpoc-2badc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23081424730:android:9c3c0a734ab95138bd0563",
+        "android_client_info": {
+          "package_name": "com.example.loginpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23081424730-di6jnlm2hqmb9sn9vl18sl5ftt71npsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginpoc",
+            "certificate_hash": "5b7629f25cfebd63bafb598ac59f1294773e078e"
+          }
+        },
+        {
+          "client_id": "23081424730-fpklhr556eat67ouln4ack9sfr5cqmln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXAhlX7vGEgm8-ZF4qQSgLCCou_QHWpi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23081424730-fpklhr556eat67ouln4ack9sfr5cqmln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

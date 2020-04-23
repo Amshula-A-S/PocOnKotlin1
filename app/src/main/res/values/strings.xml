@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginPoc</string>
+    <string name="api_key">motELuiduvd5sfQ5dnrersckk0GF5qY7eXuIUBag</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="change_layout_manager">Change Layout</string>
+</resources>

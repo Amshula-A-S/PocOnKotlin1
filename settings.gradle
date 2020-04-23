@@ -1,0 +1,2 @@
+rootProject.name='LoginPoc'
+include ':app'
